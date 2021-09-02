@@ -4,7 +4,7 @@ This project is a visualization for four different sorting algorithms; bubble so
 This was built with React JS.
 
 # Check it out
-You can access it here:
-[https://smohammadhejazi.github.io/sorting-visualizer/](https://smohammadhejazi.github.io/sorting-visualizer/ "https://smohammadhejazi.github.io/sorting-visualizer/")
-Build repository:
+You can access it here:  
+[https://smohammadhejazi.github.io/sorting-visualizer/](https://smohammadhejazi.github.io/sorting-visualizer/ "https://smohammadhejazi.github.io/sorting-visualizer/")  
+Build repository:  
 [https://github.com/smohammadhejazi/sorting-visualizer](https://github.com/smohammadhejazi/sorting-visualizer "https://github.com/smohammadhejazi/sorting-visualizer")
