@@ -1,0 +1,63 @@
+.container{
+    display: block;
+    width: 90vw;
+    height: 90vh;
+}
+
+.buttons-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10%;
+    margin-bottom: 1em;
+    padding: 1em;
+    border-radius: 5px;
+    background-color: cadetblue;
+}
+
+.generate-container{
+
+}
+
+.slider-container{
+    min-width: 20%;
+    white-space: nowrap;
+}
+
+.algorithms-container{
+    display: flex;
+}
+
+.button{
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 32px;
+    margin: 0px 10px;
+    text-align: center;
+    white-space: nowrap;
+}
+  
+button:hover {
+    background-color: darkcyan;
+    color: white;
+}
+
+.bars-container{
+    display: flex;
+    height: 80%;
+}
+
+.bar{
+    margin: 0em 0.1em;
+    background-color: skyblue;
+}
+
+.comparing-bar{
+    background-color: deeppink;
+}
+
+.sorted{
+    background-color: lightseagreen;
+}
